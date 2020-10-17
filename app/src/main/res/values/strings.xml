@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample Api App</string>
+    <string name="user_list">User List</string>
+    <string name="get_resources">Get Resources</string>
+</resources>
